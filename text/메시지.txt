@@ -1,0 +1,5 @@
+﻿      비밀번호 힌트
+     1: telephone
+     2: monitor
+     3: chair
+     4: sofa
